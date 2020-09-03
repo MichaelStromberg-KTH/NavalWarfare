@@ -6,6 +6,8 @@ This was a fun project Rasmus Kaj and I did in 1996 for the KTH MUMS course. The
 
 I have converted some of our online documentation in GFM. Enjoy!
 
+This repo contains all of the Java code. The [NavalWarfare-WWW repo](https://github.com/MichaelStromberg-KTH/NavalWarfare-WWW) contains all of the web pages and assets (images & audio).
+
 ## Preparations
 
 We took a look at one or two implementations of the 'battlefield' game already implemented on the net. Seeing them we decided that a) they were too slow and b) they were too ugly. So we decided we needed to implement the game in java.
